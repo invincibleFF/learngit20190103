@@ -9,5 +9,3 @@ Creating a new branch is dev
 dev branch
 dev branch222
 bug is fixed
-dev branch22
-test bug branch
